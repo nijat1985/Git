@@ -17,5 +17,6 @@ public class Login {
 
 
         System.out.println("I should see it only in Luba");
+        System.out.println("I should see it only in master");
     }
 }
