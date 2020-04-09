@@ -15,6 +15,12 @@ public class Login {
 
         System.out.println("I am coming from the Moon");
 
+
         System.out.println("I am going back to the Moon");
+
+
+        System.out.println("I should see it only in Luba");
+        System.out.println("I should see it only in master");
+
     }
 }
