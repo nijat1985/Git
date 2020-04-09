@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17843704-0ed1-4314-86e6-e8fcad0d1954" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -65,5 +65,13 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="125" y="123" width="1168" height="615" key="DiffContextDialog/0.23.1440.828@0.23.1440.828" timestamp="1582994149542" />
+    <state x="197" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1583762377319">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="197" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1583762377319" />
+    <state x="426" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1586398333713">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="426" y="278" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1586398333713" />
   </component>
 </project>
